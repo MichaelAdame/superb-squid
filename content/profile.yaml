@@ -5,7 +5,7 @@
   profession: Software Developer
   image: images/20210121_033433.png
   location: 'Houston, USA'
-  relocation: true
+  relocation: false
   company: Atomic Studio
   for_hire: true
   focus: Learning Gatsby

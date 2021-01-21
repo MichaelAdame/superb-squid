@@ -1,7 +1,5 @@
 - name: linkedin
-  url: >-
-    Check out Michael Adame’s profile on LinkedIn
-    https://www.linkedin.com/in/michael-adame-25056591
+  url: 'https://www.linkedin.com/in/michael-adame-25056591'
 - name: twitter
   url: 'https://twitter.com/username'
 - name: facebook
